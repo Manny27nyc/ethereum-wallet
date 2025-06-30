@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 if (!String.prototype.startsWith) {
   Object.defineProperty(String.prototype, 'startsWith', {
     enumerable: false,
